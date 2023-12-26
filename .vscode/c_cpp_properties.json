@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Qt/6.6.1/mingw_64/include/**"
+            ],
+            "defines": [],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "C:/msys64/mingw64/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
